@@ -1,0 +1,148 @@
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://pcr.euprava.gov.rs/batutLogo.png
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\batutLogo.png
+Content Type: image/png
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://pcr.euprava.gov.rs/bower_components/bootstrap/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\bootstrap\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://pcr.euprava.gov.rs/bower_components/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://pcr.euprava.gov.rs/bower_components/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pcr.euprava.gov.rs/bower_components/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pcr.euprava.gov.rs/bower_components/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://pcr.euprava.gov.rs/bower_components/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://pcr.euprava.gov.rs/bower_components/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://pcr.euprava.gov.rs/bower_components/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://pcr.euprava.gov.rs/bower_components/Ionicons/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\Ionicons\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://pcr.euprava.gov.rs/bower_components/Ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\Ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pcr.euprava.gov.rs/bower_components/Ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\Ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://pcr.euprava.gov.rs/bower_components/Ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\Ionicons\fonts\ionicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://pcr.euprava.gov.rs/bower_components/Ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\Ionicons\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: https://pcr.euprava.gov.rs/bower_components/jquery/dist/jquery.min.js
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\bower_components\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://pcr.euprava.gov.rs/dist/css/AdminLTE.min.css
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\dist\css\AdminLTE.min.css
+Content Type: text/css
+
+Uri: https://pcr.euprava.gov.rs/js/admin_login.js
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\js\admin_login.js
+Content Type: application/javascript
+
+Uri: https://pcr.euprava.gov.rs/plugins/iCheck/icheck.min.js
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\plugins\iCheck\icheck.min.js
+Content Type: application/javascript
+
+Uri: https://pcr.euprava.gov.rs/plugins/iCheck/square/blue.css
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\plugins\iCheck\square\blue.css
+Content Type: text/css
+
+Uri: https://pcr.euprava.gov.rs/plugins/iCheck/square/blue.png
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\plugins\iCheck\square\blue.png
+Content Type: image/png
+
+Uri: https://pcr.euprava.gov.rs/plugins/iCheck/square/blue@2x.png
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\plugins\iCheck\square\blue@2x.png
+Content Type: image/png
+
+Uri: https://pcr.euprava.gov.rs/validate.php?cqcode=1668003782VHCQwVAPs5IoC3Wc!Nofdihi4fnbp1EK0HZP314Ao$Ox2oz1Cf
+File Name: C:\Downloaded Web Sites\pcr.euprava.gov.rs\validate.php.html
+Content Type: text/html
+
